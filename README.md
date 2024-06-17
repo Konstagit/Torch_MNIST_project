@@ -43,7 +43,7 @@
 1. Данные:
     - Датасет MNIST разедлен на трейн и тест и находится в директории `data`.
     Представляет из себя изображения с леблами в формате:
-    ![Датасет](Torch_MNIST_project\images\Датасет.png)
+    ![Датасет](https://github.com/Konstagit/Torch_MNIST_project/blob/master/images/%D0%94%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82.png)
 
 2. Обучите модель:
     ```bash
