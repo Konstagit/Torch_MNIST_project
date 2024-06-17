@@ -59,7 +59,8 @@
 Torch_MNIST_project/
 ├── data/                # Директория для хранения датасета MNIST
 ├── images/              # Директория для хранения изображений
-├── model.ipynb          # Ноутбук с кодом для модели
+├── notebooks/
+│   ├── model.ipynb
 ├── README.md            # Файл README проекта
 ├── requirements.txt     # Список зависимостей
 ```
