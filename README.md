@@ -42,7 +42,7 @@
 
 1. Данные:
     - Датасет MNIST разедлен на трейн и тест и находится в директории `data`.
-    Представляет из себя изображения с леблами в формате:
+    Представляет из себя изображения с метками в формате:
     ![Датасет](https://github.com/Konstagit/Torch_MNIST_project/blob/master/images/%D0%94%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82.png)
 
 2. Обучите модель:
@@ -67,7 +67,7 @@ Torch_MNIST_project/
 ## Результаты
 
 После обучения модель достигает точности примерно 90% на тестовом наборе MNIST. 
-![Метрики](Torch_MNIST_project\images\Метрики.png)
+![Метрики](https://github.com/Konstagit/Torch_MNIST_project/blob/master/images/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8.png)
 
 ## Вклад
 
